@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PersonalWeb/static/css/main.a8afba1a.css",
+    "main.js": "/PersonalWeb/static/js/main.6ad56bae.js",
+    "static/media/header.jpeg": "/PersonalWeb/static/media/header.e93e00bc9582d6e45116.jpeg",
+    "static/media/project4.jpg": "/PersonalWeb/static/media/project4.4e8ab78eb40a0f03bc88.jpg",
+    "static/media/cv.pdf": "/PersonalWeb/static/media/cv.9aadfb554bdb780e4c76.pdf",
+    "static/media/pspencer.jpg": "/PersonalWeb/static/media/pspencer.9801f0c997729595ecfc.jpg",
+    "static/media/jhenry.jpg": "/PersonalWeb/static/media/jhenry.e0abee13e07a14fe1060.jpg",
+    "static/media/header.jpg": "/PersonalWeb/static/media/header.bdc3fdab611e97ea1350.jpg",
+    "static/media/avatar2.png": "/PersonalWeb/static/media/avatar2.4dd289fb9eedcec49c03.png",
+    "static/media/project5.jpeg": "/PersonalWeb/static/media/project5.ce3f396e00ba72ee4be0.jpeg",
+    "static/media/project6.jpeg": "/PersonalWeb/static/media/project6.7ad3f5f2f20853c9b705.jpeg",
+    "static/media/project2.jpeg": "/PersonalWeb/static/media/project2.66ba7a3211d171514a17.jpeg",
+    "index.html": "/PersonalWeb/index.html",
+    "main.a8afba1a.css.map": "/PersonalWeb/static/css/main.a8afba1a.css.map",
+    "main.6ad56bae.js.map": "/PersonalWeb/static/js/main.6ad56bae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8afba1a.css",
+    "static/js/main.6ad56bae.js"
+  ]
+}
